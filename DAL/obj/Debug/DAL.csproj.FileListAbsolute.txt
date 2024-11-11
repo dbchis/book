@@ -1,0 +1,9 @@
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\bin\Debug\DAL.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\bin\Debug\DAL.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\bin\Debug\DTO.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\bin\Debug\DTO.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\obj\Debug\DAL.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\DAL\obj\Debug\DAL.pdb

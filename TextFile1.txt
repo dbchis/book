@@ -1,0 +1,4 @@
+﻿GUI ↔ BLL: GUI gửi yêu cầu xử lý từ người dùng đến BLL, và nhận dữ liệu đã được xử lý từ BLL để hiển thị.
+BLL ↔ DAL: BLL yêu cầu DAL truy xuất dữ liệu hoặc cập nhật dữ liệu trong cơ sở dữ liệu.
+DAL ↔ DTO: DAL có thể trả về hoặc nhận dữ liệu dưới dạng DTO, giúp truyền tải dữ liệu qua các lớp mà không cần làm lộ logic nghiệp vụ hoặc đối tượng dữ liệu chi tiết.
+BLL ↔ DTO: BLL sử dụng DTO để nhận và trả dữ liệu giữa các lớp, xử lý dữ liệu trước khi gửi chúng ra ngoài (đặc biệt là ra GUI).

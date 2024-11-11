@@ -1,0 +1,11 @@
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\BUS.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\BUS.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\DAL.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\DTO.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\DAL.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\bin\Debug\DTO.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\obj\Debug\BUS.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\BUS\obj\Debug\BUS.pdb

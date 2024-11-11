@@ -1,0 +1,6 @@
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\bin\Debug\DTO.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\bin\Debug\DTO.pdb
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\obj\Debug\DTO.dll
+E:\VKU4\c#\project\exercises_week8\three_layer\DTO\obj\Debug\DTO.pdb
